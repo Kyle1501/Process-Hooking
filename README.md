@@ -2,6 +2,8 @@
 This project was built as a supplementary demonstration piece for my blog
 Its purpose was to showcase a working model of process hooking.
 
+INTENDED FOR EDUCATIONAL USE ONLY
+
 ## compile
 compile using gcc IAT.c -o IAT.exe
 
